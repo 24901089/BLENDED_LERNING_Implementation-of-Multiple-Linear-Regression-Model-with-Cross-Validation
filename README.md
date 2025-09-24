@@ -87,4 +87,4 @@ plt.show()
 
 
 ## Result:
-Thus, the program to implement the multiple linear regression model with cross-validation for predicting car prices is written and verified using Python programming.
+Thus, the program to implement the multiple linear regression model with  cross-validation for predicting car prices is written and verified using Python programming.
